@@ -1,0 +1,10 @@
+assembly_id	species	common_name	clade	accession	role
+Human_GRCh38	Homo_sapiens	Human (GRCh38.p14)	Hominini	GCF_000001405.40	primary_human_ref_and_IMGT_benchmark
+Human_CHM13	Homo_sapiens	Human (T2T-CHM13v2.0)	Hominini	GCF_009914755.1	t2t_haploid_human_benchmark
+Pan_troglodytes	Pan_troglodytes	Chimpanzee (T2T)	Hominini	GCF_028858775.2	t2t_great_ape
+Pan_paniscus	Pan_paniscus	Bonobo (T2T)	Hominini	GCF_029289425.2	t2t_great_ape
+Gorilla_gorilla	Gorilla_gorilla	Western lowland gorilla (T2T)	Gorillini	GCF_029281585.2	t2t_great_ape
+Pongo_abelii	Pongo_abelii	Sumatran orangutan (T2T)	Ponginae	GCF_028885655.2	t2t_great_ape
+Pongo_pygmaeus	Pongo_pygmaeus	Bornean orangutan (T2T)	Ponginae	GCF_028885625.2	t2t_great_ape
+Symphalangus_syndactylus	Symphalangus_syndactylus	Siamang gibbon (T2T)	Hylobatidae	GCF_028878055.3	t2t_lesser_ape
+Macaca_mulatta	Macaca_mulatta	Rhesus macaque (T2T-MMU8v2.0)	Cercopithecidae	GCF_049350105.2	t2t_old_world_monkey_and_IMGT_benchmark
