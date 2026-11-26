@@ -8,7 +8,7 @@ This repository contains the complete reproducible codebase, structural paratope
 > **Natural selection sculpts primate germline antibody and T cell repertoires**  
 > Masakazu Ishikawa<sup>1,*</sup>  
 > <sup>1</sup>Bioinformatics Analysis Center, Kagawa University, 1750-1 Ikenobe, Miki-cho, Kita-gun, Kagawa 761-0793, Japan.  
-> <sup>*</sup>Correspondence: `ishikawa.masakazu@kagawa-u.ac.jp`
+> <sup>*</sup>Correspondence: `ishikawa.masakazu.bg@kagawa-u.ac.jp`
 
 ---
 
